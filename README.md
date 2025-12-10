@@ -12,7 +12,8 @@ Solutions for each day are in their own folders. Code includes comments explaini
 
 ## Progress (1/12)
 
-⭐️⭐️ **Day 1** - Secret Entrance 
+⭐️⭐️ **Day 1** - Secret Entrance  
+⭐️   **Day 2** - Gift Shop
 
 ## Versions
 
